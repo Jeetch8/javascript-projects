@@ -5,3 +5,4 @@
 3. reviews
 4. navbar
 5. sidebar
+6. modal
