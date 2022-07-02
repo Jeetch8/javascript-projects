@@ -6,3 +6,4 @@
 4. navbar
 5. sidebar
 6. modal
+7. questions
