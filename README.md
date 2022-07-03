@@ -2,8 +2,9 @@
 
 1. Color Flipper
 2. Counter
-3. reviews
-4. navbar
-5. sidebar
-6. modal
-7. questions
+3. Reviews
+4. Navbar
+5. Sidebar
+6. Modal
+7. Questions
+8. Menu
