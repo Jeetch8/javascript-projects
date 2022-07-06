@@ -10,3 +10,4 @@
 8. Menu
 9. Video
 10. Scroll
+11. Tabs
