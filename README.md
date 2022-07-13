@@ -14,3 +14,4 @@
 12. Countdown
 13. Lorem-ipsum
 14. Grocery bud
+15. Slider
