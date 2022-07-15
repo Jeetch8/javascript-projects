@@ -16,3 +16,4 @@
 14. Grocery bud
 15. Slider
 16. Counter
+17. Gallery
